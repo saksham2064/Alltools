@@ -1,0 +1,6 @@
+{
+  "name": "Forma — Modern Online Tools Platform",
+  "description": "Simple, thoughtfully designed online tools for PDFs, images, video, audio, files, text, developers, and calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
